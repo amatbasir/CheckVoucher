@@ -1,0 +1,167 @@
+GET http://localhost:8080/voucher/info?serialNumber=123456789
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/voucher/info?serialNumber=123456789
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/voucher/info?serialNumber=123456789
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/voucher/info?serialNumber=123456789
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/voucher/info?serialNumber=123456789
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/voucher/info
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/voucher/info/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/voucher/info/1234567890
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-12-04T032924.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info/1234567890
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-12-04T032921.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/voucher/info
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/voucher/info
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-04T032826.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-04T032823.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-04T032821.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-04T032820.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-04T032818.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-04T031542.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-04T031540.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-04T031538.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-04T031510.404.txt
+
+###
+
