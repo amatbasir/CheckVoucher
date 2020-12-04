@@ -7,9 +7,9 @@ import (
 func SetupRouter() *gin.Engine {
 	r := gin.Default()
 
-	usergroup := r.Group("/voucher")
+	vouchergroup := r.Group("/voucher")
 	{
-		usergroup.GET("info", Controller.GetVoucherBySN)
+		vouchergroup.GET("info/:serialNumber", Controller.GetVoucherBySN)
 
 	}
 	return r

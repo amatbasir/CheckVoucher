@@ -1,3 +1,48 @@
+GET http://localhost:8080/voucher/info/123456789
+Accept: */*
+
+<> 2020-12-04T040530.200.json
+
+###
+
+GET http://localhost:8080/voucher/info?serialNumber=123456789
+Accept: */*
+
+<> 2020-12-04T040446.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info?serialNumber=123456789
+Accept: */*
+
+<> 2020-12-04T040444.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info?serialNumber=123456789
+Accept: */*
+
+<> 2020-12-04T040442.404.txt
+
+###
+
+GET http://localhost:8080/voucher/info?serialNumber=123456789
+Accept: */*
+
+###
+
+GET http://localhost:8080/voucher/info?serialNumber=123456789
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/voucher/info?serialNumber=123456789
+Accept: */*
+Cache-Control: no-cache
+
+###
+
 GET http://localhost:8080/voucher/info?serialNumber=123456789
 Accept: */*
 Cache-Control: no-cache
